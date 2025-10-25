@@ -1,10 +1,4 @@
-## Hi there 👋
-
-<!--
-**ANU5565/ANU5565** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-# some<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
 
@@ -18,6 +12,7 @@ Here are some ideas to get you started:
 <img align="right" height="150" src="https://media1.tenor.com/m/Al8FHubXhZsAAAAd/max-verstappen-donuts.gif"  />
 
 ###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
