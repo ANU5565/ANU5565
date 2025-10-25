@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Anuroop a passionate CSE with DS , I'm also the one who makes their dreams into code</h2>
 
 ###
 
@@ -33,6 +33,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/ANU5565/ANU5565/output/snake.svg" alt="Snake animation" />
 
