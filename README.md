@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Anuroop a passionate CSE with DS , I'm also the one who makes their dreams into code</h2>
+<h2 align="left">Hi 👋! I'm Anu... I enjoy thinking like an architect — designing the structure before writing the code.</h2>
 
 ###
 
