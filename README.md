@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/ANU5565/ANU5565/main/banner.png" alt="Banner" width="100%" />
 <h2 align="left">Hi👋! I'm Anu... I enjoy thinking like an architect — designing the structure before writing the code.</h2>
 
 ###
