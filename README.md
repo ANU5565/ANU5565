@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/ANU5565/ANU5565/main/banner.png" alt="Banner" width="100%" />
-<h2 align="left">Hi👋! I'm Anu... I enjoy thinking like an architect — designing the structure before writing the code.</h2>
+<h2 align="left">Hi👋! I'm ANUROOP... I enjoy thinking like an architect — designing the structure before writing the code.</h2>
 
 ###
 
@@ -22,6 +22,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12"
+    
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo"  />
+  <img width="12" />
 </div>
 
 ###
