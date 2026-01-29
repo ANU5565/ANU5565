@@ -2,8 +2,8 @@
   <img src="banner.png" alt="Banner" width="100%" />
 </p>
 
-<h1 align="left">Hi 👋, I'm Anuroop</h1>
-<h2 align="left">... I enjoy thinking like an architect — designing the structure before writing the code</h2>
+<h1 align="left">Hi 👋, </h1>
+<h3 align="left">... I enjoy thinking like an architect — designing the structure before writing the code</h3>
 
 ###
 
@@ -55,16 +55,19 @@
 
 <table width="100%">
   <tr>
-    <!-- LEFT: BIG WIDE STATS -->
+    <!-- LEFT: GitHub Streak Stats -->
     <td width="65%" valign="middle">
-      <img src="https://streak-stats.demolab.com?user=ANU5565&background=0D1117&ring=1E90FF&fire=1E90FF&currStreakNum=1E90FF&sideNums=1E90FF&dates=00FF7F&currStreakLabel=00FF7F&sideLabels=00FF7F&hide_border=true&border_radius=10&card_width=700" width="100%" alt="GitHub Streak Stats" />
+      <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com?user=ANU5565&theme=highcontrast&hide_border=true&border_radius=10&card_width=600&scale=0.7" width="100%" height="150" alt="GitHub Streak Stats" />
+      </a>
     </td>
     <!-- RIGHT: F1 GIF -->
     <td width="35%" align="center" valign="middle">
-      <img src="https://camo.githubusercontent.com/5729c661a66166b62eae31355c4218f8b1a1a2f22b51274a9c5982f282d98511/68747470733a2f2f6d65646961312e74656e6f722e636f6d2f6d2f416c384648756258685a7341414141642f6d61782d7665727374617070656e2d646f6e7574732e676966" width="100%" alt="F1 GIF" />
+      <img src="https://camo.githubusercontent.com/5729c661a66166b62eae31355c4218f8b1a1a2f22b51274a9c5982f282d98511/68747470733a2f2f6d65646961312e74656e6f722e636f6d2f6d2f416c384648756258685a7341414141642f6d61782d7665727374617070656e2d646f6e7574732e676966" width="100%" height="150" alt="F1 GIF" />
     </td>
   </tr>
 </table>
+
 
 
 
