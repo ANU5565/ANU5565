@@ -19,7 +19,7 @@
 </div>
 
 ###
-<h1 align="left">🛠️ Tech Stack</h1>
+<h2 align="left">🛠️ Tech Stack</h2>
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="python logo"  />
   <img width="12" />
@@ -56,14 +56,13 @@
 
 ###
 
-<h1 align="left">🐍 Contribution Activity</h1>
 <img src="https://raw.githubusercontent.com/ANU5565/ANU5565/output/snake.svg" alt="Snake animation" />
 
 
 
 ###
 
-<h1 align="left">📬 Know more abt me </h1>
+<h3 align="left">📬 Know more abt me </h3>
 <div align="left">
   <a href="https://www.instagram.com/mr_anurup" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
