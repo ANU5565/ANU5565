@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Banner" width="100%" />
+</p>
+
 <h1 align="left">Hi 👋, I'm Anuroop</h1>
 <h2 align="left">... I enjoy thinking like an architect — designing the structure before writing the code</h2>
 
@@ -52,9 +56,7 @@
 <table width="100%">
   <tr>
     <td width="60%" align="left">
-      <img
-        src="https://streak-stats.demolab.com?user=ANU5565&background=000000&ring=1E90FF&fire=1E90FF&currStreakNum=1E90FF&sideNums=1E90FF&dates=00FF7F&currStreakLabel=00FF7F&sideLabels=00FF7F&hide_border=true"
-        height="150" />
+      <img src="https://streak-stats.demolab.com?user=ANU5565&background=000000&ring=1E90FF&fire=1E90FF&currStreakNum=1E90FF&sideNums=1E90FF&dates=00FF7F&currStreakLabel=00FF7F&sideLabels=00FF7F&hide_border=true&border_radius=10&card_width=700" height="150" />
     </td>
     <td width="40%" align="right">
       <img
