@@ -51,7 +51,19 @@
 
 <h1 align="left">📊 GitHub Stats</h1>
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=ANU5565&theme=dracula&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+<img
+  src="https://streak-stats.demolab.com?user=ANU5565
+  &background=000000
+  &ring=1E90FF
+  &fire=1E90FF
+  &currStreakNum=1E90FF
+  &sideNums=1E90FF
+  &dates=00FF7F
+  &currStreakLabel=00FF7F
+  &sideLabels=00FF7F
+  &hide_border=false
+  &border_radius=5"
+  height="150" />
 </div>
 
 ###
