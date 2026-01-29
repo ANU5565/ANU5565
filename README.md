@@ -7,16 +7,6 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ANU5565.ANU5565&left_text=staring%20"  />
 </div>
 
-###
-
-<img align="right" height="150" src="https://camo.githubusercontent.com/5729c661a66166b62eae31355c4218f8b1a1a2f22b51274a9c5982f282d98511/68747470733a2f2f6d65646961312e74656e6f722e636f6d2f6d2f416c384648756258685a7341414141642f6d61782d7665727374617070656e2d646f6e7574732e676966"  />
-
-###
-
-<h1 align="left">📊 GitHub Stats</h1>
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=ANU5565&theme=dracula&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
 
 ###
 <h2 align="left">🛠️ Tech Stack</h2>
@@ -56,8 +46,17 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ANU5565/ANU5565/output/snake.svg" alt="Snake animation" />
 
+<img align="right" height="150" src="https://camo.githubusercontent.com/5729c661a66166b62eae31355c4218f8b1a1a2f22b51274a9c5982f282d98511/68747470733a2f2f6d65646961312e74656e6f722e636f6d2f6d2f416c384648756258685a7341414141642f6d61782d7665727374617070656e2d646f6e7574732e676966"  />
+
+<h1 align="left">📊 GitHub Stats</h1>
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=ANU5565&theme=dracula&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/ANU5565/ANU5565/output/snake.svg" alt="Snake animation" />
 
 
 ###
