@@ -47,12 +47,21 @@
 ###
 
 
-<img align="right" height="150" src="https://camo.githubusercontent.com/5729c661a66166b62eae31355c4218f8b1a1a2f22b51274a9c5982f282d98511/68747470733a2f2f6d65646961312e74656e6f722e636f6d2f6d2f416c384648756258685a7341414141642f6d61782d7665727374617070656e2d646f6e7574732e676966"  />
+<table>
+  <tr>
+    <td align="left">
+      <img
+        src="https://streak-stats.demolab.com?user=ANU5565&background=000000&ring=1E90FF&fire=1E90FF&currStreakNum=1E90FF&sideNums=1E90FF&dates=00FF7F&currStreakLabel=00FF7F&sideLabels=00FF7F&hide_border=false&border_radius=5"
+        height="150" />
+    </td>
+    <td align="right">
+      <img
+        src="https://camo.githubusercontent.com/5729c661a66166b62eae31355c4218f8b1a1a2f22b51274a9c5982f282d98511/68747470733a2f2f6d65646961312e74656e6f722e636f6d2f6d2f416c384648756258685a7341414141642f6d61782d7665727374617070656e2d646f6e7574732e676966"
+        height="150" />
+    </td>
+  </tr>
+</table>
 
-<h1 align="left">📊 GitHub Stats</h1>
-<div align="left">
-<img src="https://streak-stats.demolab.com?user=ANU5565&background=000000&ring=1E90FF&fire=1E90FF&currStreakNum=1E90FF&sideNums=1E90FF&dates=00FF7F&currStreakLabel=00FF7F&sideLabels=00FF7F&hide_border=false&border_radius=5" height="150" />
-</div>
 
 ###
 
