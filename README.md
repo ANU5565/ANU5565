@@ -51,25 +51,20 @@
 ###
 
 
-<h2 align="left">📊 GitHub Stats</h2>
-
 <h2>📊 GitHub Stats</h2>
 
-<h2>📊 GitHub Stats</h2>
-
-<table width="100%">
+<table width="100%" cellspacing="0" cellpadding="0">
   <tr>
     <td width="70%" align="left">
-      <img src="https://streak-stats.demolab.com?user=ANU5565&background=000000&ring=1E90FF&fire=FFA500&currStreakNum=1E90FF&sideNums=1E90FF&dates=00FF7F&currStreakLabel=00FF7F&sideLabels=00FF7F&hide_border=true" width="100%" height="150" />
+      <img src="https://streak-stats.demolab.com?user=ANU5565&background=000000&ring=1E90FF&fire=FFA500&currStreakNum=1E90FF&sideNums=1E90FF&dates=00FF7F&currStreakLabel=00FF7F&sideLabels=00FF7F&hide_border=true" width="100%" />
     </td>
     <td width="30%" align="right">
-      <img src="https://camo.githubusercontent.com/5729c661a66166b62eae31355c4218f8b1a1a2f22b51274a9c5982f282d98511/68747470733a2f2f6d65646961312e74656e6f722e636f6d2f6d2f416c384648756258685a7341414141642f6d61782d7665727374617070656e2d646f6e7574732e676966" height="150" />
+      <img src="https://camo.githubusercontent.com/5729c661a66166b62eae31355c4218f8b1a1a2f22b51274a9c5982f282d98511/68747470733a2f2f6d65646961312e74656e6f722e636f6d2f6d2f416c384648756258685a7341414141642f6d61782d7665727374617070656e2d646f6e7574732e676966" width="100%" />
     </td>
   </tr>
 </table>
 
-
-
+<hr style="border:0;height:3px;background:linear-gradient(to right,#1E90FF,#00FF7F);" />
 
 
 
