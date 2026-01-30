@@ -18,10 +18,9 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ANU5565
-          outputs: |
-            dist/snake.svg?background=E6F4EA&color_snake=7E3FF2&color_dots=CDE8D5,9BE9A8,40C463,30A14E,216E39
+          outputs: dist/snake.svg?background=E6F4EA&color_snake=7E3FF2&color_dots=E6F4EA,9BE9A8,40C463,30A14E,216E39
 
-      - name: Push to output branch
+      - name: Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
