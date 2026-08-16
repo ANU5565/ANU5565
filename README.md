@@ -2,7 +2,6 @@
 
 > Memorable developer positioning.
 
-**Theme:** GitHub · **Style:** Creative · **Agent:** Full-Stack Engineer
 
 ## Header
 Hi, I'm **ANU5565**. This README is tuned for **personal brand** with a GitHub visual system.
