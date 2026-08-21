@@ -106,33 +106,6 @@ Hello! I'm **Anuroop Dasari**, a B.Tech Computer Science & Engineering (Data Sci
 
 </div>
 
----
-
-## 🧭 AI Engineering Journey
-
-```text
-             AI ENGINEERING JOURNEY
-
-       LLMs (Large Language Models)
-                    │
-                    ▼
-          Embeddings & Vectors
-                    │
-                    ▼
-         Vector Search & Indexing
-                    │
-                    ▼
-      RAG (Retrieval-Augmented Gen)
-                    │
-                    ▼
-             Autonomous Agents
-                    │
-                    ▼
-           Multi-Agent Systems
-                    │
-                    ▼
-         Autonomous AI Systems
-```
 
 ---
 
