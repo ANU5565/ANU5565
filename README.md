@@ -181,6 +181,7 @@ Hello! I'm **Anuroop Dasari**, a B.Tech Computer Science & Engineering (Data Sci
 ## 🏆 Achievements & Milestones
 
 * 🏆 **AgentX Hackathon Winner** — Built and showcased **HirePilot AI Agent**
+* 🏆 **GSSoC 26 open contributor | Ambassador.** Securing top *1%* Globally with #376
 * 🚀 **Smart India Hackathon (SIH)** — Participant & AI Solution Innovator
 
 ---
