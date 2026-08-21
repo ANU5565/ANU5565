@@ -157,7 +157,7 @@ Hello! I'm **Anuroop Dasari**, a B.Tech Computer Science & Engineering (Data Sci
 * **Tech Stack**: Python • LangChain • Qdrant / ChromaDB • Google Gemini • Streamlit
 * **GitHub Repository**: [`[Repository Link]`](https://github.com/ANU5565) *(Replace with repository link)*
 * **Live Demo**: N/A
-
+ 
 ---
 
 ### ⚙️ AI Festival Campaign Generator
@@ -178,7 +178,7 @@ Hello! I'm **Anuroop Dasari**, a B.Tech Computer Science & Engineering (Data Sci
 
 ## 🏆 Achievements & Milestones
 
-* 🏆 **AgentX Hackathon** — Built and showcased **HirePilot AI Agent**
+* 🏆 **AgentX Hackathon Winner** — Built and showcased **HirePilot AI Agent**
 * 🚀 **Smart India Hackathon (SIH)** — Participant & AI Solution Innovator
 
 ---
