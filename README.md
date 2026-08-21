@@ -253,7 +253,7 @@ Hello! I'm **Anuroop Dasari**, a B.Tech Computer Science & Engineering (Data Sci
 &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/anuroop-dasari-20b8a4328" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
+</a> 
 
 </div>
 
