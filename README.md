@@ -171,8 +171,8 @@ Hello! I'm **Anuroop Dasari**, a B.Tech Computer Science & Engineering (Data Sci
 ### 📊 GitHub Analyzer
 * **Description**: Developer analytics application that interacts with the GitHub REST API to visualize contribution patterns, repository activity, and code statistics.
 * **Tech Stack**: Python • FastAPI • JavaScript • REST API
-* **GitHub Repository**: [`[Repository Link]`](https://github.com/ANU5565) *(Replace with repository link)*
-* **Live Demo**: N/A
+* **GitHub Repository**: [`[Repository Link]`](https://github.com/ANU5565)
+* **Live Demo**: [`[Live Demo](#)` ](https://github-analyzer-xi.vercel.app)
 
 ---
 
@@ -248,7 +248,7 @@ Hello! I'm **Anuroop Dasari**, a B.Tech Computer Science & Engineering (Data Sci
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/anuroop-dasari-272411383/" target="_blank">
+<a href="https://www.linkedin.com/in/anuroop-dasari-20b8a4328" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
