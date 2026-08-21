@@ -7,6 +7,7 @@
 ██╔══██╗██║╚██╗██║██║   ██║██╔══██╗ ██║   ██║██║   ██║██╔═══╝      ██║  ██║██╔══██║╚════██║██╔══██║██╔══██╗██║
 ██║  ██║██║ ╚████║╚██████╔╝██║  ██║ ╚██████╔╝╚██████╔╝██║          ██████╔╝██║  ██║███████║██║  ██║██║  ██║██║
 ╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝  ╚═════╝  ╚═════╝ ╚═╝          ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝
+                                                                                    Stay Humble. The tables always turned
 ```
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=00F0FF&center=true&vcenter=true&width=650&lines=AI+%2F+Data+Science+%2F+Full-Stack+Developer;Building+Intelligent+AI+Systems;Exploring+LLMs+%E2%80%A2+RAG+%E2%80%A2+Multi-Agent+AI" alt="Typing Banner" />
