@@ -141,15 +141,15 @@ Hello! I'm **Anuroop Dasari**, a B.Tech Computer Science & Engineering (Data Sci
 ### 🤖 HirePilot AI Agent
 * **Description**: AI-powered ATS/resume analysis and recruitment automation system designed to screen candidate profiles, extract key credentials, and deliver structured match scores.
 * **Tech Stack**: Python • FastAPI • LangChain • Google Gemini / OpenAI API • React
-* **GitHub Repository**: [`https://github.com/ANU5565/HirePilot`](https://github.com/ANU5565) *(Update link if repository name differs)*
-* **Live Demo**: `[Live Demo](#)` *(Add link when available)*
+* **GitHub Repository**: [`https://github.com/ANU5565/HirePilot`](https://github.com/ANU5565/HirePilot-Agent) 
+* **Live Demo**: `[Live Demo](#)` 
 
 ---
 
 ### 🌐 Multi-Agent Autonomous Research System
 * **Description**: An autonomous multi-agent AI system designed to research complex topics, perform web searches, synthesize information across multiple sources, and generate structured analytical reports.
 * **Tech Stack**: Python • LangGraph • Multi-Agent Framework • Tavily API • Vector Store
-* **GitHub Repository**: [`[Repository Link]`](https://github.com/ANU5565) *(Replace with repository link)*
+* **GitHub Repository**: [`[Repository Link]`](https://github.com/ANU5565/AI-Learning-Companion) 
 * **Live Demo**: N/A
 
 ---
@@ -157,7 +157,7 @@ Hello! I'm **Anuroop Dasari**, a B.Tech Computer Science & Engineering (Data Sci
 ### 📚 RAG AI System
 * **Description**: Retrieval-Augmented Generation application for document-based question answering, featuring dense vector embeddings, document chunking, and accurate context grounding.
 * **Tech Stack**: Python • LangChain • Qdrant / ChromaDB • Google Gemini • Streamlit
-* **GitHub Repository**: [`[Repository Link]`](https://github.com/ANU5565) *(Replace with repository link)*
+* **GitHub Repository**: [`[Repository Link]`](https://github.com/ANU5565/RAG)
 * **Live Demo**: N/A
  
 ---
@@ -165,7 +165,7 @@ Hello! I'm **Anuroop Dasari**, a B.Tech Computer Science & Engineering (Data Sci
 ### ⚙️ AI Festival Campaign Generator
 * **Description**: An automated multi-agent workflow that generates context-aware festival marketing campaigns, social graphics strategy, and content copy using collaborative agent prompts.
 * **Tech Stack**: n8n • Python • LangChain • Multi-Agent Workflows
-* **GitHub Repository**: [`[Repository Link]`](https://github.com/ANU5565) *(Replace with repository link)*
+* **GitHub Repository**: [`[Repository Link]`]() 
 * **Live Demo**: N/A
 
 ---
