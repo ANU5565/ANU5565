@@ -50,7 +50,7 @@ Hello! I'm **Anuroop Dasari**, a B.Tech Computer Science & Engineering (Data Sci
 
 ---
 
-## ⚡ Currently Building
+## ⚡Building
 
 ```text
 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░] 90%  🧠 RAG-based AI Systems
@@ -159,14 +159,6 @@ Hello! I'm **Anuroop Dasari**, a B.Tech Computer Science & Engineering (Data Sci
 
 ---
 
-## 🌱 Currently Learning
-
-* 🧠 **Advanced RAG & Retrieval**: Hybrid Search (BM25 + Dense Vectors), Reranking models, and Vector DB tuning (Qdrant)
-* 🤖 **Agentic AI**: Multi-Agent orchestration with LangGraph, tool calling, and recursive reasoning loops
-* ⚙️ **Backend Architecture**: High-throughput FastAPI service design, clean architecture, and asynchronous processing
-* 🚀 **MLOps & Systems**: Containerizing AI workflows with Docker and deploying microservices to cloud environments
-
----
 
 ## 📊 GitHub Analytics
 
