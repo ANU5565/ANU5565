@@ -123,6 +123,8 @@ Hello! I'm **Anuroop Dasari**, a B.Tech Computer Science & Engineering (Data Sci
 
 ---
 
+![Landscape](./landscape.svg)
+
 ## 💬 Connect With Me
 
 <div align="center">
