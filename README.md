@@ -17,7 +17,6 @@
   <b>B.Tech CSE (Data Science) Student</b> &nbsp;•&nbsp; <b>AI & ML Developer</b>
 </p>
 
----
 
 </div>
 
@@ -35,7 +34,6 @@
 └─ Status    → ████████████████████  ONLINE
 ```
 
----
 
 ## 👨‍💻 About Me
 
@@ -48,7 +46,7 @@ Hello! I'm **Anuroop Dasari**, a B.Tech Computer Science & Engineering (Data Sci
 * 📊 **Data Science**: Exploring data analytics, feature engineering, and predictive machine learning models
 * 🚀 **Approach**: Learning by doing — building end-to-end projects to gain deep technical intuition
 
----
+
 
 ## ⚡Building
 
@@ -62,20 +60,10 @@ Hello! I'm **Anuroop Dasari**, a B.Tech Computer Science & Engineering (Data Sci
 ```
 
 
----
-
-
-## 🏆 Achievements & Milestones
-
-* 🏆 **AgentX Hackathon Winner** — Built and showcased **HirePilot AI Agent**
-* 🏆 **GSSoC 26 open contributor | Ambassador.** Securing top *1%* Globally with #376
-* 🚀 **Smart India Hackathon (SIH)** — Participant & AI Solution Innovator
-
----
 
 
 ![Landscape](./landscape.svg)
----
+
 
 ## 🔥 Contribution Matrix & Streak
 
@@ -89,7 +77,6 @@ Hello! I'm **Anuroop Dasari**, a B.Tech Computer Science & Engineering (Data Sci
 
 </div>
 
----
 
 ## 🛰️ Developer Status & System Activity
 
@@ -113,7 +100,6 @@ Hello! I'm **Anuroop Dasari**, a B.Tech Computer Science & Engineering (Data Sci
 </div>
 
 
----
 
 
 ## 💬 Connect With Me
