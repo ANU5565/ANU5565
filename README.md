@@ -74,15 +74,7 @@ Hello! I'm **Anuroop Dasari**, a B.Tech Computer Science & Engineering (Data Sci
 ---
 
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ANU5565&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="ANU5565's GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANU5565&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-</div>
-
+![Landscape](./landscape.svg)
 ---
 
 ## 🔥 Contribution Matrix & Streak
@@ -123,7 +115,6 @@ Hello! I'm **Anuroop Dasari**, a B.Tech Computer Science & Engineering (Data Sci
 
 ---
 
-![Landscape](./landscape.svg)
 
 ## 💬 Connect With Me
 
