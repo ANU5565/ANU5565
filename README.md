@@ -134,7 +134,7 @@ Hello! I'm **Anuroop Dasari**, a B.Tech Computer Science & Engineering (Data Sci
 
 <div align="center">
 
-> *"Build it. Break it. Understand it. Build it better."*
+> *Build it. Break it. Understand it. Build it better.*
 
 ```text
 ────────────────────────────────────────────
