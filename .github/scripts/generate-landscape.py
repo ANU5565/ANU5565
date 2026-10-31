@@ -81,9 +81,9 @@ def render(cells: list[tuple[date, int]]) -> str:
         f'<svg xmlns="http://www.w3.org/2000/svg" width="{WIDTH}" height="{HEIGHT}" '
         f'viewBox="0 0 {WIDTH} {HEIGHT}" font-family="Arial,Helvetica,sans-serif">',
         f'<rect width="{WIDTH}" height="{HEIGHT}" rx="24" fill="{BACKGROUND}"/>',
-        f'<text x="40" y="50" font-size="14" fill="#57dfc2" font-weight="700">THE CONTRIBUTION LANDSCAPE</text>',
-        f'<text x="40" y="94" font-size="36" fill="{TEXT}" font-weight="700">Built day by day.</text>',
-        f'<text x="40" y="126" font-size="16" fill="{MUTED}">{len(cells)} days. {total:,} contributions. One ongoing story.</text>',
+        f'<text x="40" y="50" font-size="14" fill="#57dfc2" font-weight="700">THE CONTRIBUTION MOSAIC</text>',
+        f'<text x="40" y="94" font-size="36" fill="{TEXT}" font-weight="700">Built brick by brick.</text>',
+        f'<text x="40" y="126" font-size="16" fill="{MUTED}">{len(cells)} days. {total:,} contributions. A year of building.</text>',
     ]
 
     for column, (week_start, week) in enumerate(weeks):
@@ -99,9 +99,8 @@ def render(cells: list[tuple[date, int]]) -> str:
 
     parts.extend(
         [
-            f'<text x="44" y="570" font-size="36" fill="{TEXT}" font-weight="700">THINK</text>',
-            '<text x="44" y="610" font-size="36" fill="#57dfc2" font-weight="700">OUT OF THE BOX.</text>',
-            f'<text x="44" y="648" font-size="16" fill="{MUTED}">Curiosity → experiments → things that work.</text>',
+            f'<text x="44" y="590" font-size="30" fill="{TEXT}" font-weight="700">REMEMBER WHY YOU STARTED 🧘🏻‍♂️</text>',
+            f'<text x="44" y="632" font-size="24" fill="#57dfc2" font-weight="700">BUILDING • LEARNING • EXPERIMENTING</text>',
             f'<text x="1155" y="648" font-size="13" fill="{MUTED}" text-anchor="end">{start} — {end}</text>',
             "</svg>",
         ]
