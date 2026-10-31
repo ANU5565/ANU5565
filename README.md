@@ -113,6 +113,26 @@ Hello! I'm **Anuroop Dasari**, a B.Tech Computer Science & Engineering (Data Sci
 <a href="https://www.linkedin.com/in/anuroop-dasari-20b8a4328" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a> 
+&nbsp;&nbsp;
+<a href="https://leetcode.com/u/Anuruoop999" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+</a>
+&nbsp;&nbsp;
+<a href="https://x.com/anu999" target="_blank">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:anurup911@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.icloud.com/mail/" target="_blank">
+  <img src="https://img.shields.io/badge/iCloud-anurup911.icloud-3693F3?style=for-the-badge&logo=icloud&logoColor=white" alt="iCloud" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.instagram.com/anuu.rup" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
 
 </div>
 
