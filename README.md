@@ -149,7 +149,7 @@ Hello! I'm **Anuroop Dasari**, a B.Tech Computer Science & Engineering (Data Sci
 ```text
 ────────────────────────────────────────────
 
-      BUILDING • LEARNING • EXPERIMENTING • Build it-->Break it-->Understand it-->Build it better.
+      BUILDING • LEARNING • EXPERIMENTING • .
 
               ANUROOP DASARI
 
